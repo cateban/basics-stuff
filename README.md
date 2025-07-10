@@ -1,5 +1,4 @@
 # Hola!
-Esto es un markdown 
+Acá estarán los códigos que veamos en las sesiones (:
 
-![Logo de Niko](niko_logo.jpg)
 
